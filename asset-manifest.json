@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/juzgadoFaltas/static/css/main.43abd5b2.css",
+    "main.js": "/juzgadoFaltas/static/js/main.c9481501.js",
+    "static/js/453.896edeb0.chunk.js": "/juzgadoFaltas/static/js/453.896edeb0.chunk.js",
+    "index.html": "/juzgadoFaltas/index.html",
+    "main.43abd5b2.css.map": "/juzgadoFaltas/static/css/main.43abd5b2.css.map",
+    "main.c9481501.js.map": "/juzgadoFaltas/static/js/main.c9481501.js.map",
+    "453.896edeb0.chunk.js.map": "/juzgadoFaltas/static/js/453.896edeb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43abd5b2.css",
+    "static/js/main.c9481501.js"
+  ]
+}
