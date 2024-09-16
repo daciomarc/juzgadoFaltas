@@ -5,6 +5,7 @@ import AboutSection from './components/AboutSection';
 import ServicesSection from './components/ServicesSection';
 import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
+import Login from './components/Login';
 import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <HeroSection />
       <AboutSection />
       <ServicesSection />
+      <Login /> {/* Añadimos la sección de Login aquí */}
       <ContactSection />
       <Footer />
     </div>
